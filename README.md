@@ -56,5 +56,5 @@ Available for white-label agency overflow and production rescue work from Lebano
 ## Contact
 
 Email: [zjawad1999@gmail.com](mailto:zjawad1999@gmail.com)  
-Portfolio: [jawad-portfolio](https://mjszeineddine.github.io/jawad-portfolio/)  
+Portfolio: [mjszeineddine.github.io](https://mjszeineddine.github.io/)  
 GitHub: [github.com/MJszeineddine](https://github.com/MJszeineddine)
