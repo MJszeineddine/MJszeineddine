@@ -12,6 +12,7 @@ I work best on practical, revenue-adjacent systems: dashboards, admin tools, API
 - Production rescue for unstable dashboards, APIs, checkout flows, and deployments
 - Admin and operations dashboards for internal teams
 - API design, integrations, authentication, role-based access, and data workflows
+- Reliable webhook ingestion, background jobs, idempotency, retries, and operational status APIs
 - E-commerce operations: product, inventory, COD order flow, currency display, and admin handling
 - Deployment preparation with CI, Docker, environment separation, smoke checks, and rollback notes
 - White-label engineering overflow with confidentiality and clean communication
@@ -19,8 +20,8 @@ I work best on practical, revenue-adjacent systems: dashboards, admin tools, API
 ## Technical Capabilities
 
 **Frontend:** React, Next.js, TypeScript, Vite, Tailwind CSS, responsive UI, accessibility, RTL/bilingual interfaces  
-**Backend:** Node.js, Express, Python, FastAPI, REST APIs, auth/session flows, role-based access  
-**Data:** PostgreSQL, Prisma, SQLAlchemy, migrations, data integrity, reporting exports  
+**Backend:** Node.js, Fastify, Express, Python, FastAPI, REST APIs, auth/session flows, role-based access  
+**Data and jobs:** PostgreSQL, Redis, BullMQ, Prisma, SQLAlchemy, migrations, idempotency, reporting exports  
 **Delivery:** Docker, GitHub Actions, CI/CD, cloud deployment preparation, release checks, production runbooks  
 **Product surfaces:** dashboards, admin panels, integrations, checkout/order workflows, internal tools, public storefronts
 
@@ -39,6 +40,12 @@ Case study: [gopilot-express-case-study](https://github.com/MJszeineddine/gopilo
 Production e-commerce system with storefront, admin operations, products/inventory, cash-on-delivery order flow, USD/LBP presentation, Arabic/English RTL, media workflows, delivery rules, backups, and production deployment preparation.
 
 Case study: [loosh-ecommerce-case-study](https://github.com/MJszeineddine/loosh-ecommerce-case-study)
+
+### Reliable Webhook Worker
+
+Public TypeScript infrastructure sample for CRM webhook ingestion and background jobs. It verifies HMAC signatures, validates payloads with Zod, rejects duplicate events with Redis idempotency, enqueues BullMQ jobs, retries temporary failures with exponential backoff, moves terminal failures to a failed-job path, and exposes safe job status.
+
+Repo: [reliable-webhook-worker](https://github.com/MJszeineddine/reliable-webhook-worker)
 
 ## Engineering Standards
 
