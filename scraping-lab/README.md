@@ -15,7 +15,7 @@ The repository uses only public demo targets and synthetic/test data. It contain
 - CSV and JSONL delivery
 - a FastAPI layer around extraction
 - Dockerized execution
-- offline parser/unit tests and CI
+- offline parser/unit tests
 
 ## Architecture
 
