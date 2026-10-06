@@ -1,67 +1,77 @@
 # Jawad Zeineddine
 
-**Full-Stack Engineer | White-Label Engineering Partner**
+**Python Web Scraping & Browser Automation Engineer | Backend / Production Systems**
 
-I help agencies and product teams ship, repair, and stabilize production web applications without expanding their permanent engineering team.
+I build reliable web-data systems: scrapers, crawlers, browser automations, extraction APIs, recurring monitors, and the backend infrastructure around them.
 
-I work best on practical, revenue-adjacent systems: dashboards, admin tools, API backends, authentication, integrations, e-commerce operations, and deployment hardening. The public repositories below are intentionally case-study level because client source and production data remain private.
+I have hands-on web scraping experience since **2020** across **100+ websites**, including static HTML, dynamic JavaScript applications, authenticated flows, AJAX/infinite-scroll interfaces, APIs, and recurring extraction pipelines.
 
-## What I Deliver
+## Core specialization
 
-- Full-stack web applications from scoped brief to handoff
-- Production rescue for unstable dashboards, APIs, checkout flows, and deployments
-- Admin and operations dashboards for internal teams
-- API design, integrations, authentication, role-based access, and data workflows
-- Reliable webhook ingestion, background jobs, idempotency, retries, and operational status APIs
-- E-commerce operations: product, inventory, COD order flow, currency display, and admin handling
-- Deployment preparation with CI, Docker, environment separation, smoke checks, and rollback notes
-- White-label engineering overflow with confidentiality and clean communication
+- **Python:** Scrapy, BeautifulSoup, requests/httpx, pandas
+- **Browser automation:** Playwright, Selenium, session-aware workflows, form/navigation automation
+- **Extraction:** CSS selectors, XPath, API extraction, pagination, dynamic rendering, structured output
+- **Reliability:** retries, batching, concurrency, validation, deduplication, monitoring, failure recovery
+- **Data systems:** PostgreSQL, MySQL, Redis, CSV/JSON pipelines
+- **Backend delivery:** FastAPI, REST APIs, background jobs, webhooks
+- **Production:** Docker, GitHub Actions, CI/CD, deployment verification and rollback
+- **AI automation:** OpenAI, Claude and Gemini integrations when they improve extraction or workflow quality
 
-## Technical Capabilities
+## Public proof: scraping & browser automation
 
-**Frontend:** React, Next.js, TypeScript, Vite, Tailwind CSS, responsive UI, accessibility, RTL/bilingual interfaces  
-**Backend:** Node.js, Fastify, Express, Python, FastAPI, REST APIs, auth/session flows, role-based access  
-**Data and jobs:** PostgreSQL, Redis, BullMQ, Prisma, SQLAlchemy, migrations, idempotency, reporting exports  
-**Delivery:** Docker, GitHub Actions, CI/CD, cloud deployment preparation, release checks, production runbooks  
-**Product surfaces:** dashboards, admin panels, integrations, checkout/order workflows, internal tools, public storefronts
+### [Web Scraping & Browser Automation Lab](./scraping-lab)
 
-## Featured Systems
+A compact public engineering sample showing:
 
-### GoPilot Express
+- HTTP-first extraction with `httpx` + BeautifulSoup
+- Playwright-based rendered-page extraction
+- retries and timeouts
+- Pydantic validation and normalization
+- deterministic deduplication
+- testable fetch / parse / pipeline separation
 
-Multi-role delivery operations platform supporting Owner, Dispatcher, Merchant, and Courier roles; order workflows; dispatch runs; role-based access; Arabic/English; responsive dashboards; production-oriented testing and deployment preparation.
+The sample uses public demo targets only. Client source, production data and credentials remain private.
 
-Known stack: React, TypeScript, Vite, FastAPI/Python, relational database, Docker/deployment configuration, CI/release verification.
+## Broader engineering capability
 
-Case study: [gopilot-express-case-study](https://github.com/MJszeineddine/gopilot-express-case-study)
+I am not limited to one-off scraping scripts. I can take a web-data problem through:
 
-### LOOSH
+```text
+target/source
+    ↓
+scraper / browser automation / API extraction
+    ↓
+validation + normalization + deduplication
+    ↓
+PostgreSQL / CSV / JSON / Google Sheets
+    ↓
+FastAPI / scheduled jobs / monitoring / dashboard
+    ↓
+Docker + CI/CD + production handoff
+```
 
-Production e-commerce system with storefront, admin operations, products/inventory, cash-on-delivery order flow, USD/LBP presentation, Arabic/English RTL, media workflows, delivery rules, backups, and production deployment preparation.
+My broader stack includes TypeScript, JavaScript, Node.js, React, Next.js, Fastify, Express, FastAPI, PostgreSQL, Redis, BullMQ, Docker and cloud deployment workflows.
 
-Case study: [loosh-ecommerce-case-study](https://github.com/MJszeineddine/loosh-ecommerce-case-study)
+## Professional experience
 
-### Reliable Webhook Worker
+From **2023 to 2026**, I worked at **ShiftWaveX** as **CTO / Senior Software Engineer**, delivering **20+ websites** and **3 mobile projects** while working across architecture, APIs, integrations, automation, debugging, deployment and production reliability.
 
-Public TypeScript infrastructure sample for CRM webhook ingestion and background jobs. It verifies HMAC signatures, validates payloads with Zod, rejects duplicate events with Redis idempotency, enqueues BullMQ jobs, retries temporary failures with exponential backoff, moves terminal failures to a failed-job path, and exposes safe job status.
+I have also built or operated systems across ecommerce, SaaS, delivery operations, booking, internal tools, procurement intelligence, commercial-data workflows and monitoring.
 
-Repo: [reliable-webhook-worker](https://github.com/MJszeineddine/reliable-webhook-worker)
+## Selected public engineering work
 
-## Engineering Standards
+### [Reliable Webhook Worker](https://github.com/MJszeineddine/reliable-webhook-worker)
+Production-style TypeScript webhook infrastructure with HMAC verification, idempotency, Redis, BullMQ, retry handling and CI.
 
-- Confidential by default: no client source, real customer records, private documents, or production credentials in public repositories
-- Clear scope, acceptance criteria, and handoff notes
-- Environment separation and deployment checklists
-- Role-aware data access and secure admin workflows
-- Build, lint, smoke, and release verification before handoff
-- Demo data and representative screenshots only when public evidence is needed
+### [GoPilot Express Case Study](https://github.com/MJszeineddine/gopilot-express-case-study)
+Multi-role delivery operations architecture using React, TypeScript and FastAPI with production release controls.
 
-## Current Availability
+### [LOOSH Ecommerce Case Study](https://github.com/MJszeineddine/loosh-ecommerce-case-study)
+Ecommerce and admin operations architecture with inventory, COD workflows, PostgreSQL and production readiness controls.
 
-Available for white-label agency overflow and production rescue work from Lebanon.
+## How I work
 
-## Contact
+I care about **correctness, resilience and usable output**. I do not stop when a script works once. I validate extracted data, handle failure paths, separate concerns so systems remain maintainable, and verify behavior in the environment where the software will actually run.
 
-Email: [mjawadzeineddine@gmail.com](mailto:mjawadzeineddine@gmail.com)  
-Portfolio: [mjszeineddine.github.io](https://mjszeineddine.github.io/)  
-GitHub: [github.com/MJszeineddine](https://github.com/MJszeineddine)
+**Upwork:** https://www.upwork.com/freelancers/~0108bf9dfc98b94e9a  
+**Portfolio:** https://mjszeineddine.github.io/
