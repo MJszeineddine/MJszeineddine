@@ -21,14 +21,15 @@ I have hands-on web scraping experience since **2020** across **100+ websites**,
 
 ### [Web Scraping & Browser Automation Lab](./scraping-lab)
 
-A compact public engineering sample showing:
+A production-style public engineering sample showing:
 
 - HTTP-first extraction with `httpx` + BeautifulSoup
-- Playwright-based rendered-page extraction
-- retries and timeouts
-- Pydantic validation and normalization
-- deterministic deduplication
-- testable fetch / parse / pipeline separation
+- Playwright browser automation for rendered/dynamic pages
+- Scrapy crawling with pagination and retry policy
+- FastAPI delivery around extraction workflows
+- Pydantic validation, normalization and deterministic deduplication
+- CSV/JSONL output, Docker packaging and automated tests
+- clean separation between fetching, parsing, validation and delivery
 
 The sample uses public demo targets only. Client source, production data and credentials remain private.
 
