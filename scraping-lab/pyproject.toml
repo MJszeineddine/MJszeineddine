@@ -1,14 +1,17 @@
 [project]
 name = "scraping-lab"
-version = "0.1.0"
-description = "Public web scraping and browser automation engineering sample"
+version = "0.2.0"
+description = "Public production-style web scraping and browser automation engineering sample"
 requires-python = ">=3.11"
 dependencies = [
   "beautifulsoup4>=4.12",
+  "fastapi>=0.115",
   "httpx>=0.27",
   "playwright>=1.48",
   "pydantic>=2.9",
+  "scrapy>=2.11",
   "tenacity>=9.0",
+  "uvicorn[standard]>=0.32",
 ]
 
 [project.optional-dependencies]
