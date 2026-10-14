@@ -5,7 +5,10 @@ I build, integrate, and strengthen digital products — from full-stack SaaS pla
 
 I work across product design constraints, frontend and backend engineering, databases, APIs, testing, deployment, and operational recovery. I can own a defined engineering milestone end to end or work as a white-label delivery partner for an existing team.
 
-**[Portfolio & selected case studies](https://mjszeineddine.github.io/)** · **[Request engineering services on LinkedIn](https://www.linkedin.com/services/page/a80620347a04800082/)** · **[Upwork](https://www.upwork.com/freelancers/~0108bf9dfc98b94e9a)**
+**[Portfolio & selected case studies](https://mjszeineddine.github.io/)**
+
+**Have an engineering project to discuss?** [Send a project brief](https://docs.google.com/forms/d/e/1FAIpQLSeTtJoymcR3Zr4JdVvCq8lY1yuiyp6w_FI_hqiLG6IvEJgqDg/viewform) — direct project inquiry form, with no account required.
+ · **[Request engineering services on LinkedIn](https://www.linkedin.com/services/page/a80620347a04800082/)** · **[Upwork](https://www.upwork.com/freelancers/~0108bf9dfc98b94e9a)**
 
 **[Order a scoped AI Workflow Integration through Upwork](https://www.upwork.com/services/product/development-it-a-working-ai-workflow-integrated-into-your-existing-software-2110380951451757907?ref=project_share)** — one defined AI feature integrated into an existing product, with tests and handoff.
 
