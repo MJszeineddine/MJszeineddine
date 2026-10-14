@@ -7,6 +7,8 @@ I work across product design constraints, frontend and backend engineering, data
 
 **[Portfolio & selected case studies](https://mjszeineddine.github.io/)** · **[Request engineering services on LinkedIn](https://www.linkedin.com/services/page/a80620347a04800082/)** · **[Upwork](https://www.upwork.com/freelancers/~0108bf9dfc98b94e9a)**
 
+**[Order a scoped AI Workflow Integration through Upwork](https://www.upwork.com/services/product/development-it-a-working-ai-workflow-integrated-into-your-existing-software-2110380951451757907?ref=project_share)** — one defined AI feature integrated into an existing product, with tests and handoff.
+
 ## Engineering disciplines
 
 | Capability | Where I contribute |
