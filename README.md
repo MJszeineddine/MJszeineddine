@@ -5,7 +5,7 @@ I build, integrate, and strengthen digital products — from full-stack SaaS pla
 
 I work across product design constraints, frontend and backend engineering, databases, APIs, testing, deployment, and operational recovery. I can own a defined engineering milestone end to end or work as a white-label delivery partner for an existing team.
 
-**[Portfolio & selected case studies](https://mjszeineddine.github.io/)** · **[Upwork](https://www.upwork.com/freelancers/~0108bf9dfc98b94e9a)** · **[LinkedIn](https://www.linkedin.com/in/jawad-zeineddine-2279b613a/)**
+**[Portfolio & selected case studies](https://mjszeineddine.github.io/)** · **[Request engineering services on LinkedIn](https://www.linkedin.com/services/page/a80620347a04800082/)** · **[Upwork](https://www.upwork.com/freelancers/~0108bf9dfc98b94e9a)**
 
 ## Engineering disciplines
 
@@ -49,7 +49,8 @@ These figures describe previous experience; public demos and architecture studie
 For a scoped SaaS build, AI integration, full-stack milestone, production stabilization project or agency subcontract:
 
 - **Portfolio:** https://mjszeineddine.github.io/
-- **LinkedIn:** https://www.linkedin.com/in/jawad-zeineddine-2279b613a/
+- **LinkedIn Services — request a project:** https://www.linkedin.com/services/page/a80620347a04800082/
+- **LinkedIn profile:** https://www.linkedin.com/in/jawad-zeineddine-2279b613a/
 - **Upwork:** https://www.upwork.com/freelancers/~0108bf9dfc98b94e9a
 - **Email:** mjawadzeineddine@gmail.com
 
