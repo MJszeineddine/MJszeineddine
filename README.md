@@ -1,78 +1,56 @@
 # Jawad Zeineddine
+### AI-Native Software Engineer · Full-Stack / SaaS / AI Systems / Automation / Production
 
-**Python Web Scraping & Browser Automation Engineer | Backend / Production Systems**
+I build, integrate, and strengthen digital products — from full-stack SaaS platforms and business-critical applications to AI integrations, data pipelines, browser automation, and the infrastructure required to run them reliably.
 
-I build reliable web-data systems: scrapers, crawlers, browser automations, extraction APIs, recurring monitors, and the backend infrastructure around them.
+I work across product design constraints, frontend and backend engineering, databases, APIs, testing, deployment, and operational recovery. I can own a defined engineering milestone end to end or work as a white-label delivery partner for an existing team.
 
-I have hands-on web scraping experience since **2020** across **100+ websites**, including static HTML, dynamic JavaScript applications, authenticated flows, AJAX/infinite-scroll interfaces, APIs, and recurring extraction pipelines.
+**[Portfolio & selected case studies](https://mjszeineddine.github.io/)** · **[Upwork](https://www.upwork.com/freelancers/~0108bf9dfc98b94e9a)** · **[LinkedIn](https://www.linkedin.com/in/jawad-zeineddine-2279b613a/)**
 
-## Core specialization
+## Engineering disciplines
 
-- **Python:** Scrapy, BeautifulSoup, requests/httpx, pandas
-- **Browser automation:** Playwright, Selenium, session-aware workflows, form/navigation automation
-- **Extraction:** CSS selectors, XPath, API extraction, pagination, dynamic rendering, structured output
-- **Reliability:** retries, batching, concurrency, validation, deduplication, monitoring, failure recovery
-- **Data systems:** PostgreSQL, MySQL, Redis, CSV/JSON pipelines
-- **Backend delivery:** FastAPI, REST APIs, background jobs, webhooks
-- **Production:** Docker, GitHub Actions, CI/CD, deployment verification and rollback
-- **AI automation:** OpenAI, Claude and Gemini integrations when they improve extraction or workflow quality
+| Capability | Where I contribute |
+| --- | --- |
+| **Full-stack products & SaaS** | React/TypeScript interfaces, Node.js/FastAPI APIs, authentication, admin panels, PostgreSQL, operational dashboards |
+| **AI systems & integration** | Connect LLM capabilities with existing software, external services and application workflows; scope safe, testable integrations |
+| **Business automation & data** | Python, Playwright/Scrapy/Selenium, ETL, APIs, webhooks, structured outputs, validation and deduplication |
+| **Production engineering** | Docker, CI/CD, release readiness, debugging, reliability tests, recovery and handover |
 
-## Public proof: scraping & browser automation
+## Selected engineering work
+
+### [GoPilot Express — logistics operations platform](https://github.com/MJszeineddine/gopilot-express-case-study)
+Multi-role delivery workflows for merchants, dispatchers, couriers and owners, with operational data, COD considerations, role-aware interfaces, bilingual UX, APIs and release controls. Public material is an architecture case study, not proprietary source.
+
+### [LOOSH — e-commerce and back-office platform](https://github.com/MJszeineddine/loosh-ecommerce-case-study)
+Storefront, inventory, order lifecycle, COD operations, bilingual interfaces, backend/data architecture and deployment/release verification. Public documentation excludes confidential business data.
+
+### [Reliable Webhook Worker — production-style TypeScript sample](https://github.com/MJszeineddine/reliable-webhook-worker)
+Synthetic CRM webhook demonstration covering signed intake, strict validation, Redis-backed idempotency, BullMQ retry patterns, worker processes and automated checks. This is engineering proof, not a claim of client results.
 
 ### [Web Scraping & Browser Automation Lab](./scraping-lab)
+Public sample with HTTP-first extraction, Playwright rendering, Scrapy pagination, FastAPI delivery, Pydantic validation, retry handling, normalization and deterministic deduplication. Uses permitted demo sources only.
 
-A production-style public engineering sample showing:
+## Background
 
-- HTTP-first extraction with `httpx` + BeautifulSoup
-- Playwright browser automation for rendered/dynamic pages
-- Scrapy crawling with pagination and retry policy
-- FastAPI delivery around extraction workflows
-- Pydantic validation, normalization and deterministic deduplication
-- CSV/JSONL output, Docker packaging and automated tests
-- clean separation between fetching, parsing, validation and delivery
+- **ShiftWaveX (2023–2026)** — CTO / Senior Software Engineer, working across web/mobile projects, backend systems, API integrations, automation, release reliability and technical delivery. Earlier profile records reference **20+ websites and 3 mobile projects**.
+- **Web-data engineering since 2020** — hands-on scraping/browser automation across **100+ websites**, including JavaScript-rendered pages, APIs, pagination and structured collection.
 
-The sample uses public demo targets only. Client source, production data and credentials remain private.
-
-## Broader engineering capability
-
-I am not limited to one-off scraping scripts. I can take a web-data problem through:
-
-```text
-target/source
-    ↓
-scraper / browser automation / API extraction
-    ↓
-validation + normalization + deduplication
-    ↓
-PostgreSQL / CSV / JSON / Google Sheets
-    ↓
-FastAPI / scheduled jobs / monitoring / dashboard
-    ↓
-Docker + CI/CD + production handoff
-```
-
-My broader stack includes TypeScript, JavaScript, Node.js, React, Next.js, Fastify, Express, FastAPI, PostgreSQL, Redis, BullMQ, Docker and cloud deployment workflows.
-
-## Professional experience
-
-From **2023 to 2026**, I worked at **ShiftWaveX** as **CTO / Senior Software Engineer**, delivering **20+ websites** and **3 mobile projects** while working across architecture, APIs, integrations, automation, debugging, deployment and production reliability.
-
-I have also built or operated systems across ecommerce, SaaS, delivery operations, booking, internal tools, procurement intelligence, commercial-data workflows and monitoring.
-
-## Selected public engineering work
-
-### [Reliable Webhook Worker](https://github.com/MJszeineddine/reliable-webhook-worker)
-Production-style TypeScript webhook infrastructure with HMAC verification, idempotency, Redis, BullMQ, retry handling and CI.
-
-### [GoPilot Express Case Study](https://github.com/MJszeineddine/gopilot-express-case-study)
-Multi-role delivery operations architecture using React, TypeScript and FastAPI with production release controls.
-
-### [LOOSH Ecommerce Case Study](https://github.com/MJszeineddine/loosh-ecommerce-case-study)
-Ecommerce and admin operations architecture with inventory, COD workflows, PostgreSQL and production readiness controls.
+These figures describe previous experience; public demos and architecture studies are not presented as customer performance metrics.
 
 ## How I work
 
-I care about **correctness, resilience and usable output**. I do not stop when a script works once. I validate extracted data, handle failure paths, separate concerns so systems remain maintainable, and verify behavior in the environment where the software will actually run.
+1. Define the product outcome and explicit technical acceptance criteria.
+2. Design the smallest reliable approach that meets the real requirements.
+3. Implement and test across boundaries — frontend, backend, data, external systems and failure paths.
+4. Document deployment, observability, recovery and ownership so delivery survives handoff.
 
-**Upwork:** https://www.upwork.com/freelancers/~0108bf9dfc98b94e9a  
-**Portfolio:** https://mjszeineddine.github.io/
+## Contact & collaboration
+
+For a scoped SaaS build, AI integration, full-stack milestone, production stabilization project or agency subcontract:
+
+- **Portfolio:** https://mjszeineddine.github.io/
+- **LinkedIn:** https://www.linkedin.com/in/jawad-zeineddine-2279b613a/
+- **Upwork:** https://www.upwork.com/freelancers/~0108bf9dfc98b94e9a
+- **Email:** mjawadzeineddine@gmail.com
+
+**Confidentiality:** public examples contain synthetic data, approved architectural descriptions and non-client-specific code. No credentials, private customer data or proprietary client source are published.
