@@ -20,6 +20,23 @@ I work across product design constraints, frontend and backend engineering, data
 | **Business automation & data** | Python, Playwright/Scrapy/Selenium, ETL, APIs, webhooks, structured outputs, validation and deduplication |
 | **Production engineering** | Docker, CI/CD, release readiness, debugging, reliability tests, recovery and handover |
 
+## Professional record (2023–2026)
+
+**ShiftWaveX · CTO / Senior Software Engineer · 2023–2026.** Full-stack applications, SaaS architecture, browser automation, API integrations, release controls, and production troubleshooting. The experience summarized here spans multiple years, even where the public proof was documented more recently. Profile records describe **20+ websites and 3 mobile projects**; these are historical experience figures, not verified marketplace sales.
+
+**Web-data engineering · since 2020.** Hands-on extraction and browser automation on **100+ sites** across JavaScript-rendered pages, APIs, pagination and structured normalization. This is professional experience, **not** a claim of 100 public repositories or 100 paying clients.
+
+**What can be inspected publicly today:** the linked case studies and synthetic engineering samples below. Proprietary code, private user data, fake reviews and invented client results are excluded.
+
+### Evidence trail by engineering discipline
+
+- **Operations & logistics:** [GoPilot Express case study](https://github.com/MJszeineddine/gopilot-express-case-study) — merchant/dispatcher/courier/owner workflow architecture, API boundaries, COD, bilingual UX, release requirements.
+- **Commerce & administration:** [LOOSH case study](https://github.com/MJszeineddine/loosh-ecommerce-case-study) — catalog and variants, inventory state transitions, COD checkout, PostgreSQL, admin tooling.
+- **Reliable integrations:** [Webhook Worker](https://github.com/MJszeineddine/reliable-webhook-worker) — TypeScript, signed intake, deduplication, Redis/BullMQ retry rules, tests and CI. *Open demonstration, not a client engagement.*
+- **Browser automation:** [Scraping Lab](https://github.com/MJszeineddine/MJszeineddine/tree/main/scraping-lab) — Playwright/Scrapy/HTTP extraction, FastAPI, validation and deterministic examples. *Public demo sources only.*
+
+**Small fixed-scope entry point:** [Fix a broken Python or Playwright scraper — $179](https://www.freelancer.com/service/python/fix-a-broken-python-or-playwright-scraper). Define one defect, one source, input/output acceptance tests and handoff before work begins.
+
 ## Selected engineering work
 
 ### [GoPilot Express — logistics operations platform](https://github.com/MJszeineddine/gopilot-express-case-study)
