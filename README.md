@@ -7,6 +7,8 @@ I work across product design constraints, frontend and backend engineering, data
 
 **[Portfolio & case studies](https://mjszeineddine.github.io/)** · **[Project inquiry form](https://docs.google.com/forms/d/e/1FAIpQLSeTtJoymcR3Zr4JdVvCq8lY1yuiyp6w_FI_hqiLG6IvEJgqDg/viewform)** · **[LinkedIn Services](https://www.linkedin.com/services/page/a80620347a04800082/)** · **[Upwork](https://www.upwork.com/freelancers/~0108bf9dfc98b94e9a)** · **[Contra](https://contra.com/m_jawad_zeineddine_cn2cxwb3/work)**
 
+**Fix a broken Python or Playwright scraper — $179 fixed price:** [Order the scoped repair on Freelancer](https://www.freelancer.com/service/python/fix-a-broken-python-or-playwright-scraper). One existing extraction workflow, one source, targeted defect repair with a reproducible check and source-code handoff; permitted access only.
+
 **Fixed-scope AI integration — $2,000 starting price:** [Order on Upwork](https://www.upwork.com/services/product/development-it-a-working-ai-workflow-integrated-into-your-existing-software-2110380951451757907?ref=project_share) or [inquire on Contra](https://contra.com/s/RoWZRr3c-integrate-an-ai-workflow-into-your-existing-software). Both describe one scoped AI workflow integrated into an existing product, with testing and handoff; final acceptance criteria depend on the client's existing system.
 
 ## Engineering disciplines
