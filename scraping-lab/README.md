@@ -4,6 +4,12 @@ Public, client-safe proof of the engineering patterns I use for reliable web-dat
 
 The repository uses only public demo targets and synthetic/test data. It contains **no client source code, credentials, private datasets, or production records**.
 
+## Is your existing scraper broken?
+
+If you have a **permitted, existing Python/Playwright scraper** that stopped extracting data after a site or API change, you can [order a fixed-scope repair for $179 on Freelancer](https://www.freelancer.com/service/python/fix-a-broken-python-or-playwright-scraper). One target, one defined defect, a reproducible test and source-code handoff. Share the sanitized error, expected output and a sample public page before ordering; no credentials or private datasets in the initial message.
+
+This offer is separate from the open-source demonstration below; the code here remains free to inspect and run.
+
 ## What this demonstrates
 
 - Python extraction for static and JavaScript-rendered pages
